@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot",
+    "username": "hungvnpc",
     "password": "",
     "type": "off"
   },
@@ -20,7 +20,8 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "asdfghjkl;'"
+      "password": "
+      "
     },
     "anti-afk": {
       "enabled": true,

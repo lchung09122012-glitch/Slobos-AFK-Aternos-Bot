@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Live_keto.aternos.me",
+    "ip": "Live_keto.aternos.me",
     "port": 16109,
     "version": "",
     "try-creative": false

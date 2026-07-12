@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "h",
+    "username": "hungvnpc",
     "password": "",
-    "type": "offline"
+    "type": "turn on"
   },
   "server": {
     "ip": "Live_keto.aternos.me",
